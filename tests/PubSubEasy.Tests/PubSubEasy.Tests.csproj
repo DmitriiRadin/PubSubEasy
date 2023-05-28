@@ -26,6 +26,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\..\PubSubEasy\PubSubEasy.csproj" />
+      <ProjectReference Include="..\..\src\PubSubEasy\PubSubEasy.csproj" />
     </ItemGroup>
 
 </Project>
